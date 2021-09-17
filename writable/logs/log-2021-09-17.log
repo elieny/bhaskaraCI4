@@ -1,0 +1,208 @@
+CRITICAL - 2021-09-17 12:04:18 --> Undefined index: a
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->Inserir()
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-17 12:06:17 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-17 12:14:03 --> Too few arguments to function App\Controllers\Bhaskara::alterar(), 0 passed in C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php on line 928 and exactly 1 expected
+#0 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->alterar()
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-09-17 12:15:03 --> Too few arguments to function App\Controllers\Bhaskara::editar(), 0 passed in C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php on line 928 and exactly 1 expected
+#0 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->editar()
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-09-17 12:16:26 --> Too few arguments to function App\Controllers\Bhaskara::editar(), 0 passed in C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php on line 928 and exactly 1 expected
+#0 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->editar()
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-09-17 12:16:26 --> Too few arguments to function App\Controllers\Bhaskara::editar(), 0 passed in C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php on line 928 and exactly 1 expected
+#0 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->editar()
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-09-17 12:16:27 --> Too few arguments to function App\Controllers\Bhaskara::editar(), 0 passed in C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php on line 928 and exactly 1 expected
+#0 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->editar()
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-09-17 12:16:27 --> Too few arguments to function App\Controllers\Bhaskara::editar(), 0 passed in C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php on line 928 and exactly 1 expected
+#0 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->editar()
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-09-17 12:16:28 --> Too few arguments to function App\Controllers\Bhaskara::editar(), 0 passed in C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php on line 928 and exactly 1 expected
+#0 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->editar()
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-09-17 12:16:33 --> Invalid file: altera.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('altera.php')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('altera', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(65): view('altera', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->editar('5')
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-17 12:17:03 --> Invalid file: altera.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('altera.php')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('altera', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(65): view('altera', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->editar('5')
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-17 12:17:03 --> Invalid file: altera.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('altera.php')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('altera', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(65): view('altera', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->editar('5')
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-17 12:17:12 --> Invalid file: altera.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('altera.php')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('altera', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(65): view('altera', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->editar('20')
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-17 12:34:58 --> Too few arguments to function App\Controllers\Bhaskara::alterar(), 0 passed in C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php on line 928 and exactly 1 expected
+#0 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->alterar()
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-09-17 12:41:26 --> Call to undefined method App\Models\BhaskaraModel::alterar
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(63): CodeIgniter\Model->__call('alterar', Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->alterar('6')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-17 12:41:27 --> Call to undefined method App\Models\BhaskaraModel::alterar
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(63): CodeIgniter\Model->__call('alterar', Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->alterar('6')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-17 12:41:27 --> Call to undefined method App\Models\BhaskaraModel::alterar
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(63): CodeIgniter\Model->__call('alterar', Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->alterar('6')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-17 12:41:28 --> Call to undefined method App\Models\BhaskaraModel::alterar
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(63): CodeIgniter\Model->__call('alterar', Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->alterar('6')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-17 12:41:28 --> Call to undefined method App\Models\BhaskaraModel::alterar
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(63): CodeIgniter\Model->__call('alterar', Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->alterar('6')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-17 12:41:28 --> Call to undefined method App\Models\BhaskaraModel::alterar
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(63): CodeIgniter\Model->__call('alterar', Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->alterar('6')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-17 12:41:31 --> Call to undefined method App\Models\BhaskaraModel::alterar
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(63): CodeIgniter\Model->__call('alterar', Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->alterar('6')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-17 12:41:31 --> Call to undefined method App\Models\BhaskaraModel::alterar
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(63): CodeIgniter\Model->__call('alterar', Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->alterar('6')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-17 12:41:32 --> Call to undefined method App\Models\BhaskaraModel::alterar
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(63): CodeIgniter\Model->__call('alterar', Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->alterar('6')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-17 12:47:47 --> Undefined variable: tabela
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Views\bhaskaraView.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskaraView', Array, true)
+#4 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(66): view('bhaskaraView', Array)
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->alterar('6')
+#6 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#7 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-09-17 12:56:40 --> Invalid file: altera.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('altera.php')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('altera', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(29): view('altera')
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->alterar('6')
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-17 12:57:05 --> Invalid file: altera.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('altera.php')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('altera', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(29): view('altera')
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->alterar('6')
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-17 12:57:05 --> Invalid file: altera.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('altera.php')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('altera', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(29): view('altera')
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->alterar('6')
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-17 12:57:08 --> Invalid file: altera.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('altera.php')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('altera', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(29): view('altera')
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->alterar('6')
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

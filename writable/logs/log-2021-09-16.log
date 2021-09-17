@@ -1,0 +1,327 @@
+CRITICAL - 2021-09-16 14:54:32 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(60): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-16 15:11:39 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(64): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-16 15:12:15 --> Undefined index: a
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->Inserir()
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:17:10 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(47): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-16 15:17:15 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(47): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-16 15:18:27 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(47): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-16 15:21:45 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 51, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:22:36 --> Undefined index: 
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 51, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:22:37 --> Undefined index: 
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 51, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:22:38 --> Undefined index: 
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 51, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:22:38 --> Undefined index: 
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 51, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:22:38 --> Undefined index: 
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 51, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:22:38 --> Undefined index: 
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 51, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:22:39 --> Undefined index: 
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 51, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:22:39 --> Undefined index: 
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 51, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:22:39 --> Undefined index: 
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 51, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:22:39 --> Undefined index: 
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 51, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:22:39 --> Undefined index: 
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 51, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:22:49 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 51, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:22:50 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 51, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:22:50 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 51, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:24:26 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:24:27 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:24:28 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:25:46 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('4')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:25:52 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:27:29 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('18')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:28:59 --> syntax error, unexpected '<', expecting end of file
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('create', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(30): view('create')
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->formInsert()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-16 15:29:15 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('5')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:30:16 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:30:28 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:30:29 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:30:29 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:30:29 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:30:29 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:30:30 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:30:30 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:30:30 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:30:30 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:30:31 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:30:31 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:30:31 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 15:31:03 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('1')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 17:45:51 --> syntax error, unexpected '}', expecting ';' or ','
+#0 C:\xampp\htdocs\bhaskaraCI4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('bhaskara/ler')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('bhaskara/ler')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-16 17:46:51 --> Undefined index: id
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->excluir('6')
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

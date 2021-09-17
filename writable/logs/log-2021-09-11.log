@@ -1,0 +1,183 @@
+CRITICAL - 2021-09-11 19:29:50 --> Undefined array key "valor_a"
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 11)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->Inserir()
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-11 19:54:07 --> Object of class App\Models\BhaskaraModel could not be converted to string
+#0 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->Inserir()
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-09-11 19:55:14 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(88): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-11 19:57:32 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(88): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-11 19:57:56 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(88): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-11 19:58:20 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(88): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-11 19:58:21 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(88): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-11 19:58:22 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(88): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-11 19:58:22 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(88): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-11 19:58:22 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(88): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-11 19:58:31 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(88): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-11 19:59:32 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(88): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-11 19:59:44 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(88): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-11 19:59:44 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(88): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-11 19:59:45 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(88): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-11 19:59:45 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(88): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-11 20:01:51 --> Invalid file: bhaskara_view.php
+#0 C:\xampp\htdocs\bhaskaraCI4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bhaskara_view.p...')
+#1 C:\xampp\htdocs\bhaskaraCI4\system\Common.php(1271): CodeIgniter\View\View->render('bhaskara_view', Array, true)
+#2 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(88): view('bhaskara_view', Array)
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->ler()
+#4 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#5 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-09-11 20:14:15 --> Undefined index: a
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->Inserir()
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-11 20:14:35 --> Undefined index: a
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->Inserir()
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-11 20:14:36 --> Undefined index: a
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->Inserir()
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-11 20:14:37 --> Undefined index: a
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->Inserir()
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-09-11 20:14:39 --> Undefined index: a
+#0 C:\xampp\htdocs\bhaskaraCI4\app\Controllers\Bhaskara.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(928): App\Controllers\Bhaskara->Inserir()
+#2 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Bhaskara))
+#3 C:\xampp\htdocs\bhaskaraCI4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\bhaskaraCI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
